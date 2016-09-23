@@ -1,6 +1,6 @@
 package base;
 
-public class MyInteger {
+public class MyInteger {// Fixing Git
 	
 	private int iValue;
 	
